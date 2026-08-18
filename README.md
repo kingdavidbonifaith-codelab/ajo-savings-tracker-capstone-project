@@ -4,7 +4,7 @@ A modern, high-aesthetic web application for managing traditional rotating thrif
 
 ---
 
-## 📌 Problem Context
+## Problem Context
 
 In Nigeria, traditional thrift groups (*Ajo*) are a vital financial lifeline for market traders, artisans, small business owners, and staff cooperatives. Members contribute a fixed amount of money (e.g. ₦25,000 to ₦200,000) into a shared pool at regular intervals (weekly, bi-weekly, or monthly). In each cycle, one member receives the full lump-sum payout (*takes the hand* or *collects the pot*).
 
@@ -16,7 +16,7 @@ In Nigeria, traditional thrift groups (*Ajo*) are a vital financial lifeline for
 
 ---
 
-## 🏛️ Preset Community Hubs Included
+## Preset Community Hubs Included
 
 This application comes pre-configured with authentic Nigerian commerce hubs and business cooperatives:
 
@@ -27,7 +27,7 @@ This application comes pre-configured with authentic Nigerian commerce hubs and 
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 ### 1. Interactive Dashboard & Overview
 - Total Naira (₦) thrift pool collected across active groups.
@@ -57,7 +57,7 @@ This application comes pre-configured with authentic Nigerian commerce hubs and 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Framework**: React 18 (ESM Component Architecture)
 - **Bundler / Dev Server**: Vite 6
@@ -68,7 +68,7 @@ This application comes pre-configured with authentic Nigerian commerce hubs and 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18.0.0 or higher)
@@ -98,5 +98,5 @@ This application comes pre-configured with authentic Nigerian commerce hubs and 
 
 ---
 
-## 📄 License
+## License
 Created for community financial empowerment in Nigeria.
